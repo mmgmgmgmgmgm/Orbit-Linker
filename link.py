@@ -37,4 +37,4 @@ banner1 = '''
         '''
 Nut = "        Program is \nmade by Ishaan, Thanks to Ajit Mohapatra for the support!"
  
-Write.Print(Add.Add(banner1, Nut, 4), Colors.red_to_orange, interval=0.0001)
+Write.Print(Add.Add(banner1, Nut, 4), Colors.blue_to_green, interval=0.0.0001)
